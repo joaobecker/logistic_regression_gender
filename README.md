@@ -1,4 +1,4 @@
-# Identifying Gender - Logistic Regression
+# Gender Identification - Logistic Regression
 
 ##### This project uses Logistic Regression to identify people's gender by using height and weight as feature.
 
